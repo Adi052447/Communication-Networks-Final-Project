@@ -74,7 +74,7 @@ Ensure that the `pcaps/` directory contains the required PCAP files.
 📂 network-traffic-analysis
 │── 📂 res               # Directory containing PCAP files
 │── 📂 src  
-│────      📜 analyze_traffic.py   # Main script for analysis
+│────📜 analyze_traffic.py   # Main script for analysis
 │── 📜 README.md            # Project documentation (this file)
 ```
 
