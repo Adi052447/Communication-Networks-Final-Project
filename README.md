@@ -52,8 +52,7 @@ Additionally, ensure you have **Wireshark** and **TShark** installed on your sys
 Run the main script to process the PCAP files and generate insights:
 
 ```bash
-python analyze_traffic.py
-```
+python src/analyze_traffic.py```
 
 Ensure that the `pcaps/` directory contains the required PCAP files.
 
